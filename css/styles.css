@@ -1,9 +1,10 @@
 .sidebar {
   float: right;
+  margin-bottom: 800px;
 }
 
 img {
-  max-width: 35vw;
+  max-width: 20vw;
   float: left;
   padding: 5vw;
 }
